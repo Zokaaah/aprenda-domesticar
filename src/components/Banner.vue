@@ -93,6 +93,7 @@ h1{
     display: flex;
     flex-direction: row;
     justify-content: center;
+    height: 250px;
 
 
 }
@@ -106,6 +107,37 @@ h1{
 h3{
     font-weight: bold;
     font-size: 1.2em;
+}
+
+
+@media only screen and (max-width: 869px)  {
+
+    .stats{
+    background-color: #292a2c;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    height: 100%;
+padding: 5%;
+
+}
+.icones{
+    margin-top: 2%;
+    margin-bottom: 2%;
+
+    width: 35%;
+}
+
+h1{
+    color: #fff;
+    font-size: 40px;
+    font-weight: bold !important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: -20px;
+}
 }
 
 

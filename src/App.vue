@@ -1,6 +1,8 @@
 <script setup>
 
 import Banner from './components/Banner.vue'
+import Section2 from './components/Section2.vue'
+
 </script>
 
 <template>
@@ -10,6 +12,7 @@ import Banner from './components/Banner.vue'
 
   <main>
     <Banner/>
+    <Section2/>
 
   </main>
 </template>
