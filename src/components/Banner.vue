@@ -66,6 +66,9 @@ h1{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-top: -20px;
 }
+h3{
+    color: #fff;
+}
 .btnStart{
     background-color: #18AC39;
     color: #fff;
