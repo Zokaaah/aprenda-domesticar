@@ -1,7 +1,7 @@
 <template>
   <div class="section3">
     <div class="content">
-        <h1>Somente hoje você paga este valor para a ter acesso a todo conteudo do curso de adestrador de pets</h1>
+        <h1>Somente hoje você paga este valor para a ter acesso a todo conteudo do curso de adestrador de pets.</h1>
 
         <h2>4x de R$9,98</h2>
         <h2>ou</h2>

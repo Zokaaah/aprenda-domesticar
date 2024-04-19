@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="banner">
-       <h1>Nesse curso você aprendera</h1>
+       <h1>Nesse curso você aprenderá</h1>
 
        <b-container>
 
