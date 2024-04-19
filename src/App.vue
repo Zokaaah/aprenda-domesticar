@@ -2,6 +2,7 @@
 
 import Banner from './components/Banner.vue'
 import Section2 from './components/Section2.vue'
+import Section3 from './components/Section3.vue'
 
 </script>
 
@@ -13,6 +14,8 @@ import Section2 from './components/Section2.vue'
   <main>
     <Banner/>
     <Section2/>
+    <Section3/>
+
 
   </main>
 </template>
